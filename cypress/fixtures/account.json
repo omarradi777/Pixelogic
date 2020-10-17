@@ -1,0 +1,5 @@
+{
+    "url":"account/",
+    "myAccountButton":".d-none > .dropdown > #dropdownCurrency",
+    "logout":"a[href='https://www.phptravels.net/account/logout/']"
+}

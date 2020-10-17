@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A test for Pixelogic's automation task",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:chrome": "cypress run --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.1.0"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^1.8.3",
+    "cypress": "^5.4.0"
+  }
+}

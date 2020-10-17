@@ -1,0 +1,12 @@
+{
+    "url":"www.phptravels.net/register",
+    "selectors":{
+        "firstName":".row > :nth-child(1) > .form-group > .pure-material-textfield-outlined > span",
+        "lastName":":nth-child(2) > .form-group > .pure-material-textfield-outlined > span",
+        "mobileNumber":":nth-child(4) > .pure-material-textfield-outlined > span",
+        "email":":nth-child(5) > .pure-material-textfield-outlined > span",
+        "password":":nth-child(6) > .pure-material-textfield-outlined > span",
+        "confirmPassword":":nth-child(7) > .pure-material-textfield-outlined > span"
+    },
+    "button":".signupbtn"
+}

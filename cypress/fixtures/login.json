@@ -1,0 +1,8 @@
+{
+    "url":"/login",
+    "selectors":{
+        "email":":nth-child(1) > .pure-material-textfield-outlined > span",
+        "password":":nth-child(2) > .pure-material-textfield-outlined > span"
+    },
+    "loginButton":"#loginfrm > .btn-primary"
+}
